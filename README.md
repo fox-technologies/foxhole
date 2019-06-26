@@ -1,2 +1,2 @@
-# fox
+# Foxhole
 The core API project.
